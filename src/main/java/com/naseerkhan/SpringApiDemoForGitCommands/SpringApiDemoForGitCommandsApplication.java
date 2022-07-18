@@ -8,6 +8,7 @@ public class SpringApiDemoForGitCommandsApplication {
 
 	public static void main(String[] args) {
 		System.out.println("hello");
+		System.out.println("Naseer Khan");
 		SpringApplication.run(SpringApiDemoForGitCommandsApplication.class, args);
 	}
 
